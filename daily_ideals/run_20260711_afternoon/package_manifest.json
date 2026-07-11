@@ -1,0 +1,51 @@
+{
+  "run": "run_20260711_afternoon",
+  "date": "2026-07-11",
+  "source": "jasmine_daily_ideals",
+  "batch": "afternoon",
+  "count": 5,
+  "assets": [
+    {
+      "id": "01",
+      "file": "algoethos_daily_20260711_afternoon_01.png",
+      "caption": "algoethos_daily_20260711_afternoon_01.caption.txt",
+      "style": "serious_minimal_swiss",
+      "service": "AI Ready"
+    },
+    {
+      "id": "02",
+      "file": "algoethos_daily_20260711_afternoon_02.png",
+      "caption": "algoethos_daily_20260711_afternoon_02.caption.txt",
+      "style": "funny_vintage_poster_parody",
+      "service": "AI Reach"
+    },
+    {
+      "id": "03",
+      "file": "algoethos_daily_20260711_afternoon_03.png",
+      "caption": "algoethos_daily_20260711_afternoon_03.caption.txt",
+      "style": "serious_stat_62_headline",
+      "service": "AEO"
+    },
+    {
+      "id": "04",
+      "file": "algoethos_daily_20260711_afternoon_04.png",
+      "caption": "algoethos_daily_20260711_afternoon_04.caption.txt",
+      "style": "funny_cartoon_illustration",
+      "service": "AI Automation"
+    },
+    {
+      "id": "05",
+      "file": "algoethos_daily_20260711_afternoon_05.png",
+      "caption": "algoethos_daily_20260711_afternoon_05.caption.txt",
+      "style": "serious_coffee_shop_chalkboard",
+      "service": "free walkthrough CTA"
+    }
+  ],
+  "brand_lock": true,
+  "hero_title": "ALGOETHOS",
+  "size": "1080x1350",
+  "luno_prompts": true,
+  "luno_used": true,
+  "luno_credits": 120,
+  "status": "ready_for_upload_buffer"
+}
