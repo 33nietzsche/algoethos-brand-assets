@@ -1,0 +1,22 @@
+# AlgoEthos Daily Ideals 2026-07-13 morning - Public Raw URLs (github)
+# Repo: 33nietzsche/algoethos-brand-assets
+# Branch: main
+# All images: 1080x1350 PNG + captions. Luno generated, Pillow logo composite only.
+
+01 (funny_coffee_shop_chalkboard, AI receptionist, robot helping chalkboard): https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_01.png
+01 caption: https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_01.caption.txt
+
+02 (serious_stat_62_headline, AI Automation, 62% missed calls revenue): https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_02.png
+02 caption: https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_02.caption.txt
+
+03 (funny_cartoon_illustration, AI sales, sticky notes phone chaos): https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_03.png
+03 caption: https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_03.caption.txt
+
+04 (serious_minimal_swiss, AI Reach · SEO · AEO, Google AND ChatGPT doors): https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_04.png
+04 caption: https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_04.caption.txt
+
+05 (funny_SMS_screenshot, AI receptionist, after-hours text answered): https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_05.png
+05 caption: https://raw.githubusercontent.com/33nietzsche/algoethos-brand-assets/main/daily_ideals/run_20260713_morning/algoethos_daily_20260713_morning_05.caption.txt
+
+# Luno used (5x). Total credits ~120. Pillow logo only. NO GATE per Zach.
+# Generated 2026-07-13 morning batch (Jasmine)
