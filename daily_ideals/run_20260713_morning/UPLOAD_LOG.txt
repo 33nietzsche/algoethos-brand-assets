@@ -1,0 +1,23 @@
+UPLOAD RUN 2026-07-13 morning (Jasmine)
+algoethos_daily_20260713_morning_01.png
+algoethos_daily_20260713_morning_01.caption.txt
+algoethos_daily_20260713_morning_02.png
+algoethos_daily_20260713_morning_02.caption.txt
+algoethos_daily_20260713_morning_03.png
+algoethos_daily_20260713_morning_03.caption.txt
+algoethos_daily_20260713_morning_04.png
+algoethos_daily_20260713_morning_04.caption.txt
+algoethos_daily_20260713_morning_05.png
+algoethos_daily_20260713_morning_05.caption.txt
+logo_cube.png
+package_manifest.json
+run_20260713_morning_manifest.txt
+BUFFER_URLS_20260713_morning.txt
+luno_*_prompt.txt (5)
+DONE_JASMINE_*.md
+JASMINE_DAILY_IDEALS_DONE
+Manifest present — uploaded to brand-assets/daily_ideals/run_20260713_morning/ (github push 5e9d050 main).
+22 files ship set. Luno REST complete. Credits ~120. Pillow logo composite ONLY.
+Buffer: pipeline post + MCP 15 posts (IG/LI/FB) scheduled. Linear 33N-118 posted.
+JASMINE_DAILY_IDEALS_DONE
+github commit: 5e9d050

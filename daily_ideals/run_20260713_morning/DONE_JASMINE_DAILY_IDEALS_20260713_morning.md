@@ -71,10 +71,10 @@ Luno: 200 OK, 24 credits.
 **BATCH TOTAL: 125/125 — ALL PASS. Ready for upload + Buffer queue (no gate).**
 
 ## Post-batch (per order — NO GATE)
-- Upload: manifest present → push to `33nietzsche/algoethos-brand-assets` `daily_ideals/run_20260713_morning/`
+- Upload: manifest present → push to `33nietzsche/algoethos-brand-assets` `daily_ideals/run_20260713_morning/` commit **5e9d050**
 - `python buffer_post_pipeline.py post` — queued to `buffer_approved_queue.json`
 - Buffer MCP (org: My Organization): 5× Instagram + 5× LinkedIn + 5× Facebook = **15 posts addToQueue scheduled**
-- Linear 33N-118 completion posted
+- Linear 33N-118 completion posted: https://linear.app/33nietzsche/issue/33N-118/jasmine-image-pipeline-luna-first-claude-prompt-sli-qc#comment-bdd3bcc7
 - End marker: JASMINE_DAILY_IDEALS_DONE
 
 *Generated with real Luno REST only. Pillow logo+lock composite. Per AGENTS.md + Brand_Quality_Bar + jasmine_luno_creative_policy.txt.*
